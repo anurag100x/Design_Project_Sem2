@@ -16,22 +16,25 @@
 
 ## List of Selected Universities
 
-1. [IIT Madras](https://www.iitm.ac.in/)
-2. [IIT Bombay](https://www.iitb.ac.in/)
-- Offers from MNCs like - Microsoft, Meta, HCL, PaloAlto, Intel, Amazon etc..
-- Is popular and renowned for its achievements
+1. IIT Madras (NREF - 1)
+    2023-24 - https://internship.iitm.ac.in/downloads/Internship_Report_2023-24.pdf
+    2022-23 - https://drive.google.com/drive/folders/1P60fEm_RXY2XXYN5SieOG5aGi5k1f7xF
+    2021-22 - https://internship.iitm.ac.in/downloads/IITM-Placement&Internship-Report-Short-2021-22.pdf
+    2020-21 - https://internship.iitm.ac.in/downloads/interns_stats_2020-21.pdf
+    https://doms.iitm.ac.in/index.php/placment/placement-reports/final-placement-report
 
-IIT Madras (NREF - 1)
-2023-24 - https://internship.iitm.ac.in/downloads/Internship_Report_2023-24.pdf
-2022-23 - https://drive.google.com/drive/folders/1P60fEm_RXY2XXYN5SieOG5aGi5k1f7xF
-2021-22 - https://internship.iitm.ac.in/downloads/IITM-Placement&Internship-Report-Short-2021-22.pdf
-2020-21 - https://internship.iitm.ac.in/downloads/interns_stats_2020-21.pdf
-https://doms.iitm.ac.in/index.php/placment/placement-reports/final-placement-report
 
+<<<<<<< HEAD
+2. IIT Delhi (NREF - 2)
+    info@iitd.ac.in
+=======
 
 IIT Delhi (NREF - 2)
 info@iitd.ac.in
+>>>>>>> 4a7a2791233c4eaac62d2af4e5b28c4664b295f5
 
+<<<<<<< HEAD
+=======
 
 IIT Bombay (NREF - 3)
 2023-24 - https://drive.google.com/file/d/1ZgQfqyWNLiKWlAmXifQe--_R-8GdZun3
@@ -39,7 +42,16 @@ IIT Bombay (NREF - 3)
 2021-22 - https://drive.google.com/file/d/1eFVX1iDolsQ54CjvYikBG5Q4XLdhOsmF
 2020-21 - https://drive.google.com/file/d/1LYh7-xkn-HOCm9I2GM5VaAPod4cou0nS
 https://campus.placements.iitb.ac.in/
+>>>>>>> 4a7a2791233c4eaac62d2af4e5b28c4664b295f5
 
+<<<<<<< HEAD
+3. IIT Bombay (NREF - 3)
+    2023-24 - https://drive.google.com/file/d/1ZgQfqyWNLiKWlAmXifQe--_R-8GdZun3
+    2022-23 - https://drive.google.com/file/d/1vjVhzTSni__GnB0bQI5ZbVPd3UIQrpuY
+    2021-22 - https://drive.google.com/file/d/1eFVX1iDolsQ54CjvYikBG5Q4XLdhOsmF
+    2020-21 - https://drive.google.com/file/d/1LYh7-xkn-HOCm9I2GM5VaAPod4cou0nS
+    https://campus.placements.iitb.ac.in/
+=======
 
 IIT Kanpur (NREF - 4)
 2023-24 - https://www.iitk.ac.in/new/data/Annual-Report-english_2023-24-04-02-25.pdf
@@ -47,28 +59,57 @@ IIT Kanpur (NREF - 4)
 2021-22 - https://www.iitk.ac.in/new/data/2023-English-Final-26-04-23.pdf
 2020-21 - https://www.iitk.ac.in/new/data/Annual-Report-English-2020-21_01-02-22.pdf
 https://www.iitk.ac.in/new/annual-reports
+>>>>>>> 4a7a2791233c4eaac62d2af4e5b28c4664b295f5
 
+<<<<<<< HEAD
+=======
 
 IIT Kharagpur (NREF - 5)
 https://som.iitkgp.ac.in/pdf/Final_Placement_Report_2022-24.pdf
+>>>>>>> 4a7a2791233c4eaac62d2af4e5b28c4664b295f5
 
+<<<<<<< HEAD
+4. IIT Kanpur (NREF - 4)
+    2023-24 - https://www.iitk.ac.in/new/data/Annual-Report-english_2023-24-04-02-25.pdf
+    2022-23 - https://www.iitk.ac.in/new/data/Annual-Report-2022-23-25-01-24.pdf
+    2021-22 - https://www.iitk.ac.in/new/data/2023-English-Final-26-04-23.pdf
+    2020-21 - https://www.iitk.ac.in/new/data/Annual-Report-English-2020-21_01-02-22.pdf
+    https://www.iitk.ac.in/new/annual-reports
+=======
 
 IIT Roorkee (NREF - 6)
 https://iitr.ac.in/Departments/Management%20Studies%20Department/Placement%20Stats/Placement%20Reports.html
 https://iitr.ac.in/Departments/Management%20Studies%20Department/static/Placement%20Reports/Summer_Placemens_2024.pdf
+>>>>>>> 4a7a2791233c4eaac62d2af4e5b28c4664b295f5
 
+<<<<<<< HEAD
+=======
 
 IIT Guawahati (NREF - 7)
 2023-24 - https://ocs.iith.ac.in/static/media/Placement-Stats-22-23.660c7292.pdf
+>>>>>>> 4a7a2791233c4eaac62d2af4e5b28c4664b295f5
 
+<<<<<<< HEAD
+5. IIT Kharagpur (NREF - 5)
+    https://som.iitkgp.ac.in/pdf/Final_Placement_Report_2022-24.pdf
+=======
 
 IIT BHU (NREF - 10)
 https://iitbhu.ac.in/contents/institute/dean/doaa/doc/annual_report_english_2023-24.pdf
+>>>>>>> 4a7a2791233c4eaac62d2af4e5b28c4664b295f5
 
+<<<<<<< HEAD
+=======
 
 VIT (NREF - 11)
 https://vit-placements-tracker.streamlit.app/
+>>>>>>> 4a7a2791233c4eaac62d2af4e5b28c4664b295f5
 
+<<<<<<< HEAD
+6. IIT Roorkee (NREF - 6)
+    https://iitr.ac.in/Departments/Management%20Studies%20Department/Placement%20Stats/Placement%20Reports.html
+    https://iitr.ac.in/Departments/Management%20Studies%20Department/static/Placement%20Reports/Summer_Placemens_2024.pdf
+=======
 
 Indian Institute of Technology Indore (NREF - 16)
 
@@ -77,8 +118,13 @@ IIT Mandi (NREF - 31)
 2023-24 - https://students.iitmandi.ac.in/cnpcell/files/CnP%20Report%20till%2029-07-2024.pdf
 2022-23 - https://research.iitmandi.ac.in/main/placements/files/Placement_inten_report2023.pdf
 https://www.iitmandi.ac.in/annualreports
+>>>>>>> 4a7a2791233c4eaac62d2af4e5b28c4664b295f5
 
 
+<<<<<<< HEAD
+7. IIT Guawahati (NREF - 7)
+    2023-24 - https://ocs.iith.ac.in/static/media/Placement-Stats-22-23.660c7292.pdf
+=======
 Chandigarh University (NREF - 32)
 
 
@@ -88,8 +134,46 @@ UPES (NREF - 42)
 2021-22 - https://upes-production-cvb3e7frghdda0a4.z01.azurefd.net/drupal-data/2024-03/2022-Placement%20Snapshot.pdf
 2020-21 - https://upes-production-cvb3e7frghdda0a4.z01.azurefd.net/drupal-data/2024-03/2021-Placement%20Snapshot.pdf
 https://www.upes.ac.in/placements
+>>>>>>> 4a7a2791233c4eaac62d2af4e5b28c4664b295f5
 
 
+<<<<<<< HEAD
+8. IIT BHU (NREF - 10)
+    https://iitbhu.ac.in/contents/institute/dean/doaa/doc/annual_report_english_2023-24.pdf
+
+
+9. VIT (NREF - 11)
+    https://vit-placements-tracker.streamlit.app/
+
+
+10. Indian Institute of Technology Indore (NREF - 16)
+
+
+11. IIT Mandi (NREF - 31)
+    2023-24 - https://students.iitmandi.ac.in/cnpcell/files/CnP%20Report%20till%2029-07-2024.pdf
+    2022-23 - https://research.iitmandi.ac.in/main/placements/files/Placement_inten_report2023.pdf
+    https://www.iitmandi.ac.in/annualreports
+
+
+12. Chandigarh University (NREF - 32)
+
+
+13. UPES (NREF - 42)
+    2023-24 - https://upesonline.ac.in/assets/pdf/mandatory-disclosure/CCE_Annual_Report_2023-24.pdf
+    2022-23 - https://upes-production-cvb3e7frghdda0a4.z01.azurefd.net/drupal-data/2024-03/2023-Placement%20Snapshot.pdf
+    2021-22 - https://upes-production-cvb3e7frghdda0a4.z01.azurefd.net/drupal-data/2024-03/2022-Placement%20Snapshot.pdf
+    2020-21 - https://upes-production-cvb3e7frghdda0a4.z01.azurefd.net/drupal-data/2024-03/2021-Placement%20Snapshot.pdf
+    https://www.upes.ac.in/placements
+
+
+14. Birla Institute of Technology (NREF - 48)
+
+
+15. Lovely Professional University (NREF - 50)
+
+
+https://www.reddit.com/r/Btechtards/comments/1daapkb/iit_hyderabad_placement_stats_202324/?rdt=63081
+=======
 Birla Institute of Technology (NREF - 48)
 
 
@@ -97,3 +181,4 @@ Lovely Professional University (NREF - 50)
 
 
 https://www.reddit.com/r/Btechtards/comments/1daapkb/iit_hyderabad_placement_stats_202324/?rdt=63081
+>>>>>>> 4a7a2791233c4eaac62d2af4e5b28c4664b295f5
